@@ -11,7 +11,28 @@ TheseScripts was created in C#, so it is available on: [(You must have .NET Fram
 [You can contact me here: http://bit.ly/TheseScripts_contact](http://bit.ly/TheseScripts_contact)                             
 You can visit the ToWolf website: http://bit.ly/Towolf                                                     
 You can visit the YouTube channel of ToWolf: http://bit.ly/ToWolf_Youtube         
-                                                                             
+          
+### TheseScripts is available in several languages*:
+- English
+- Français
+- Deutsch
+- Español
+- Italiano
+- Custom Languages
+          
+*The languages "Français" and "English" have perfect translations. (Other languages have translations from Google Translate.)    
+To help me fix any translation errors please contact me using the contact link above.   
+      
+### How to create a .lang file?                                                                 
+                                                                                                      
+Follow this step-by-step tutorial:                                                                    
+- Step1: Go to the installation folder of TheseScripts                                  
+- Step2: Go to the "Settings" folder                                                                    
+- Step3: Copy then Paste any ".lang" file (It will serve as a template)                                  
+- Step4: Rename the ".lang" file you just copied (for example: "my_new_language.lang")                                  
+- Step5: Edit the translations in the file with a word processor. (Like Notepadd ++ or Sublime Text)                                  
+- Step 6: Restart TheseScripts, go to settings and choose your language!       
+      
 # Licence                                         
                                          
 TheseScripts is licensed under the GNU General Public License 3.0                                         
