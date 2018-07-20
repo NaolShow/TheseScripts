@@ -9,6 +9,7 @@ TheseScripts was created in Java, so it is available on: [(You must have Java)](
 - Linux
 - Mac
 
+[You can contact me here: http://bit.ly/TheseScripts_contact](http://bit.ly/TheseScripts_contact)                             
 You can visit the ToWolf website: http://bit.ly/Towolf                                                     
 You can visit the YouTube channel of ToWolf: http://bit.ly/ToWolf_Youtube         
                                                                              
