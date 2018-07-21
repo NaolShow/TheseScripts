@@ -6,8 +6,9 @@ and to help beginners install these scripts. (And so save time)
 
 TheseScripts was created in C#, so it is available on: [(You must have .NET Framework)](https://www.microsoft.com/net/download)
 - Windows
-- Linux with the Mono project (Really not recommended)
-
+- Linux with the Mono project (Really not recommended)                                  
+                                                                     
+[Follow the news of this project HERE!](https://twitter.com/ToWolfDev) (Twitter)                                  
 [You can contact me here: http://bit.ly/TheseScripts_contact](http://bit.ly/TheseScripts_contact)                             
 You can visit the ToWolf website: http://bit.ly/Towolf                                                     
 You can visit the YouTube channel of ToWolf: http://bit.ly/ToWolf_Youtube         
