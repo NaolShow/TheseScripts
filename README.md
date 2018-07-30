@@ -5,7 +5,7 @@ TheseScripts was created to facilitate the installation of scripts for the Mod T
 and to help beginners install these scripts. (And so save time)
 
 ### Presentation of the software (In development)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mik9AgADXKU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[Click here to watch the video!](https://www.youtube.com/watch?v=Mik9AgADXKU)
 
 TheseScripts was created in C#, so it is available on: [(You must have .NET Framework)](https://www.microsoft.com/net/download)
 - Windows
