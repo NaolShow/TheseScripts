@@ -4,9 +4,6 @@ TheseScripts is a software developed by NaolShow [FR] (ToWolf http://towolf.live
 TheseScripts was created to facilitate the installation of scripts for the Mod Tools of Call of Duty: Black Ops 3,
 and to help beginners install these scripts. (And so save time)
 
-### Presentation of the software (In development)
-[Click here to watch the video!](https://www.youtube.com/watch?v=Mik9AgADXKU)
-
 TheseScripts was created in C#, so it is available on: [(You must have .NET Framework)](https://www.microsoft.com/net/download)
 - Windows
 - Linux with the Mono project (Really not recommended)                                  
@@ -66,5 +63,3 @@ TheseScripts is still in development. It is therefore impossible to install
 # Releases
 
 [Download the software HERE](https://github.com/NaolShow/TheseScripts/releases)
-
-TheseScripts is still in development. It is therefore impossible to install
