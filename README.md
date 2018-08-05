@@ -55,11 +55,7 @@ Warning: in this case "Software" refers to this project (TheseScripts)
 - Source code must be made availablewhen the software is distributed                                         
 - A copy of the licence and copyright notice must be included with the software                                         
 - Modifications must be released under the same license when distributing the software. In some cases a similar or related license may be used                                         
-- Changes made to the code must be documented                                         
-                                         
-# Install                                                                                                                              
-                                                                                                                  
-TheseScripts is still in development. It is therefore impossible to install                                                                                   
+- Changes made to the code must be documented                                                                                                                       
 # Releases
 
 [Download the software HERE](https://github.com/NaolShow/TheseScripts/releases)
