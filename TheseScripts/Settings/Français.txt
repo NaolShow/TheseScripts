@@ -1,0 +1,106 @@
+// Ce fichier est une traduction du logiciel TheseScripts
+// Ce fichier est une traduction par défaut et donc, par conséquent,
+// Il va être remis d'origine à chaque lancement du logiciel
+// 
+// ToWolf, NaolShow, ToWolf.livehost.fr
+
+// ----------------- Miscellaneous -----------------
+
+ok: OK
+cancel: Annuler
+
+update: Une nouvelle mise à jour est disponible. Il est important de garder le logiciel à jour, car sinon certains packages ne pourraient fonctionner. Voulez-vous télécharger la dernière mise à jour disponible .
+
+operation: Une opération est déjà en cours sur la map sélectionnée, veuillez attendre qu'elle se termine
+
+double_process: Vous ne pouvez pas ouvrir l'application deux fois en même temps!
+beta_welcome: TheseScripts est actuellement en Bêta. Vous pouvez rencontrer des problèmes pendant l'utilisation de mon logiciel, comme par exemple des erreurs. Veuillez me faire part de vos problèmes dans la section problèmes de ma page Github.
+
+// ----------------- Fenêtre principale -----------------
+
+// ------ Barre d'outils ------
+
+files: Fichiers
+open_usermap: Ouvrir une carte utilisateur
+synchronize_map_files: Synchroniser les fichiers de carte
+settings: Paramètres
+
+help: Aide
+open_wiki: Ouvrir le wiki
+
+// ------ Pages à onglet ------
+
+map_informations: Informations sur la carte
+scripts_importer: Importateur de scripts
+
+// --- Ouvrir la carte de l'utilisateur ---
+
+wrong_bo3_root: Le dossier de jeu "Call of Duty: Black ops 3" n'est pas valide. S'il vous plaît changer le dossier de votre jeu dans les paramètres de TheseScripts.
+
+select_map: Selectionnez une de vos maps ci dessous:
+please_select_map: Veuillez sélectionner une carte
+
+zombies_maps: Cartes Zombies
+multiplayers_maps: Cartes Multijoueurs
+
+// --- Informations sur la carte ---
+
+file_name: Nom du fichier
+file_path: Chemin du fichier
+
+open_file_location: Ouvrir l'emplacement du fichier
+open_file: Ouvrir le fichier
+delete_file: Supprimer le fichier
+
+delete_files: Voulez vous vraiment supprimer les fichiers sélectionnés ?
+
+// --- Importateur de scripts ---
+
+no_connection: L'installation de scripts par internet est désactivée. S'il vous plaît, vérifiez votre connexion à internet et réessayez.
+import_local_script_package: Importer un paquet de scripts local
+
+import_script: Importer le script
+open_original_link: Ouvrir le lien d'origine du script
+
+choose_script_package: Veuillez sélectionner un paquet de scripts
+
+script_name: Nom du script
+script_author: Auteur
+script_version: Version
+
+script_status: Statut
+downloading: Téléchargement
+importing: Importation
+completed: Terminé
+
+not_categorized: Non catégorisé
+powerups: Power-Ups
+bosses: Bosses
+perks: Perks
+visual: Visuel
+weapons: Armes
+
+// ----------------- Settings window -----------------
+
+needrestart: Le changement de ce paramètres nécessite un redémarrage du logiciel. Pour que le paramètre prenne effet, veuillez redemarrer le logiciel.
+
+// ------ General ------
+
+general: Général
+
+language: Langue
+bo3_root: Dossier racine "Black ops 3"
+
+// --- Divers ---
+
+miscellaneous: Divers
+show_beta_message: Afficher le message bêta au démarrage
+
+// ------ Avancée ------
+
+advanced: Avancée
+
+// --- Pages ---
+
+pages: Pages
+show_console: Afficher la console

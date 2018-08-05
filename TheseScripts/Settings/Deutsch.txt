@@ -1,0 +1,106 @@
+// Diese Datei ist eine Übersetzung der TheseScripts-Software
+// Diese Datei ist eine Standardübersetzung und daher
+// Es wird bei jedem Start der Software übergeben
+//
+// ToWolf, NaolShow, ToWolf.livehost.fr
+
+// ----------------- Miscellaneous -----------------
+
+ok: OK
+cancel: Stornieren
+
+update: Ein neues Update ist verfügbar. Es ist wichtig, die Software auf dem neuesten Stand zu halten, sonst funktionieren einige Pakete möglicherweise nicht. Möchten Sie das neueste verfügbare Update herunterladen?
+
+operation: Auf der ausgewählten Karte wird bereits eine Operation ausgeführt. Bitte warten Sie, bis sie abgeschlossen ist
+
+double_process: Sie können die Anwendung nicht zweimal gleichzeitig öffnen!
+beta_welcome: TheseScripts befindet sich derzeit in der Betaversion. Bei der Verwendung meiner Software können Probleme auftreten, z. B. bei Fehlern. Bitte erzähle mir von deinen Problemen im Problembereich meiner Github-Seite.
+
+// ----------------- Hauptfenster -----------------
+
+// ------ Werkzeugleiste ------
+
+files: Dateien
+open_usermap: Öffnen Sie eine Benutzerkarte
+synchronize_map_files: Synchronisieren Sie die Kartendateien
+settings: Einstellungen
+
+help: Hilfe
+open_wiki: Öffne das Wiki
+
+// ------ Registerkarten ------
+
+map_informations: Karteninformationen
+scripts_importer: Skriptimporteur
+
+// --- Benutzerkarte öffnen ---
+
+wrong_bo3_root: Der Spielordner "Call of Duty: Black ops 3" ist nicht gültig. Bitte ändere den Ordner deines Spiels in den Einstellungen von TheseScripts.
+
+select_map: Wählen Sie eine Ihrer Karten unten:
+please_select_map: Bitte wählen Sie eine Karte
+
+zombies_maps: Zombies Karten
+multiplayers_maps: Multiplayer Karten
+
+// --- Karteninformationen ---
+
+file_name: Dateiname
+file_path: Dateipfad
+
+open_file_location: Öffnen Sie den Speicherort der Datei
+open_file: Öffne die Datei
+delete_file: Löschen Sie die Datei
+
+delete_files: Möchten Sie die ausgewählten Dateien wirklich löschen?
+
+// --- Import von Skripten ---
+
+no_connection: Die Installation von Skripten über das Internet ist deaktiviert. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
+import_local_script_package: Importieren Sie ein lokales Skriptpaket
+
+import_script: Importieren Sie das Skript
+open_original_link: Öffnen Sie den ursprünglichen Skriptlink
+
+choose_script_package: Bitte wählen Sie ein Skriptpaket aus
+
+script_name: Skriptname
+script_author: Autor
+script_version: Version
+
+script_status: Status
+downloading: Wird heruntergeladen
+importing: Importieren
+completed: Fertig
+
+not_categorized: Nicht kategorisiert
+powerups: Power-Ups
+bosses: Bosses
+perks: Perks
+visual: Visuell
+weapons: Waffen
+
+// ----------------- Settings window -----------------
+
+needrestart: Das Ändern dieser Einstellung erfordert einen Neustart der Software. Damit die Einstellungen wirksam werden, starten Sie die Software neu.
+
+// ------ General ------
+
+general: Allgemeines
+
+language: Sprache
+bo3_root: "Black Ops 3" Stammordner
+
+// --- Sonstiges ---
+
+miscellaneous: Sonstiges
+show_beta_message: Zeige Beta-Nachricht beim Start
+
+// ------ Fortgeschritten ------
+
+advanced: Fortgeschritten
+
+// --- Seiten ---
+
+pages: Seiten
+show_console: Konsole zeigen

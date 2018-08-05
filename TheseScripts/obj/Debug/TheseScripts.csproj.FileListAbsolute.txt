@@ -1,0 +1,14 @@
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\bin\Debug\TheseScripts.exe.config
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\bin\Debug\TheseScripts.exe
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\bin\Debug\TheseScripts.pdb
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\obj\Debug\TheseScripts.csprojResolveAssemblyReference.cache
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\obj\Debug\TheseScripts.TheseScripts.resources
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\obj\Debug\TheseScripts.Properties.Resources.resources
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\obj\Debug\TheseScripts.csproj.GenerateResource.Cache
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\obj\Debug\TheseScripts.csproj.CoreCompileInputs.cache
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\obj\Debug\TheseScripts.exe
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\obj\Debug\TheseScripts.pdb
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\bin\Debug\WolfLib.dll
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\obj\Debug\TheseScripts.Forms.SplashScreen.resources
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\obj\Debug\TheseScripts.Forms.TheseSettings.resources
+C:\Users\Loan\Developpement\C#\TheseScripts\TheseScripts\bin\Debug\SharpCompress.dll

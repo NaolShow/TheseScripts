@@ -1,0 +1,106 @@
+// This file is a translation of TheseScripts software
+// This file is a default translation and therefore, therefore,
+// It will be handed over at each launch of the software
+//
+// ToWolf, NaolShow, ToWolf.livehost.fr
+
+// ----------------- Miscellaneous -----------------
+
+ok: OK
+cancel: Cancel
+
+update: A new update is available. It is important to keep the software up-to-date, otherwise some packages may not work. Do you want to download the latest update available.
+
+operation: An operation is already in progress on the selected map, please wait for it to finish
+
+double_process: You can't open the application twice at the same time!
+beta_welcome: TheseScripts is currently in Beta. You may encounter problems while using my software, such as errors. Please tell me about your problems in the issues section of my Github page.
+
+// ----------------- Main window -----------------
+
+// ------ ToolBar ------
+
+files: Files
+open_usermap: Open a user map
+synchronize_map_files: Synchronize map files
+settings: Settings
+
+help: Help
+open_wiki: Open the wiki
+
+// ------ Tab pages ------
+
+map_informations: Map informations
+scripts_importer: Scripts importer
+
+// --- Open usermap ---
+
+wrong_bo3_root: The game folder "Call of Duty: Black ops 3" is not valid. Please change the folder of your game in the settings of TheseScripts.
+
+select_map: Select one of your maps below:
+please_select_map: Please select a map
+
+zombies_maps: Zombies maps
+multiplayers_maps: Multiplayers maps
+
+// --- Map informations ---
+
+file_name: File name
+file_path: File path
+
+open_file_location: Open the file location
+open_file: Open the file
+delete_file: Delete the file
+
+delete_files: Do you really want to delete the selected files?
+
+// --- Scripts importer ---
+
+no_connection: Scripts installation by internet is disabled. Please check your internet connection, and try again.
+import_local_script_package: Import local script package
+
+import_script: Import the script
+open_original_link: Open the original script link
+
+choose_script_package: Please select a script package
+
+script_name: Script name
+script_author: Author
+script_version: Version
+
+script_status: Status
+downloading: Downloading
+importing: Importing
+completed: Completed
+
+not_categorized: Not categorized
+powerups: Power-Ups
+bosses: Bosses
+perks: Perks
+visual: Visual
+weapons: Weapons
+
+// ----------------- Settings window -----------------
+
+needrestart: Changing this setting requires a software restart. For the settings to take effect, please restart the software.
+
+// ------ General ------
+
+general: General
+
+language: Language
+bo3_root: "Black ops 3" root folder
+
+// --- Miscellaneous ---
+
+miscellaneous: Miscellaneous
+show_beta_message: Show beta message at startup
+
+// ------ Advanced ------
+
+advanced: Advanced
+
+// --- Pages ---
+
+pages: Pages
+show_console: Show console

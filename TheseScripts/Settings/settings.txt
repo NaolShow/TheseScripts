@@ -1,0 +1,26 @@
+// ! Warning !
+// 
+// For the proper functioning of the software.
+// I strongly advise against changing these settings manually!
+// Especially when you do not know what you are changing!
+// 
+// ! Warning !
+
+// Software version for automatic updates (Do not change)
+version: TheseScripts.Version
+
+lang: English
+autoupdates: True
+
+beta_welcome: True
+
+BlackOps3Root: C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III
+show_console: True
+
+// ! Warning !
+// 
+// For the proper functioning of the software.
+// I strongly advise against changing these settings manually!
+// Especially when you do not know what you are changing!
+// 
+// ! Warning !

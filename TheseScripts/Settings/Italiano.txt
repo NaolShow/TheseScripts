@@ -1,0 +1,106 @@
+// Questo file è una traduzione del software TheseScripts
+// Questo file è una traduzione predefinita e pertanto, quindi,
+// Sarà consegnato ad ogni lancio del software
+//
+// ToWolf, NaolShow, ToWolf.livehost.fr
+
+// ----------------- Miscellaneous -----------------
+
+ok: Bene
+cancel: Annullare
+
+update: È disponibile un nuovo aggiornamento. È importante mantenere il software aggiornato, altrimenti alcuni pacchetti potrebbero non funzionare. Vuoi scaricare l'ultimo aggiornamento disponibile.
+
+operation: Un'operazione è già in corso sulla mappa selezionata, attendere che finisca
+
+double_process: Non è possibile aprire l'applicazione due volte allo stesso tempo!
+beta_welcome: TheseScripts è attualmente in beta. Potresti riscontrare problemi durante l'utilizzo del mio software, ad esempio errori. Per favore, parlami dei tuoi problemi nella sezione problemi della mia pagina Github.
+
+// ----------------- Finestra principale -----------------
+
+// ------ ToolBar ------
+
+files: File
+open_usermap: Apri una mappa utente
+synchronize_map_files: Sincronizza i file della mappa
+settings: Impostazioni
+
+help: Aiuto
+open_wiki: Apri il wiki
+
+// ------ Tab pagine ------
+
+map_informations: Informazioni sulla mappa
+scripts_importer: Scripts importatore
+
+// --- Apri la mappa dell'utente ---
+
+wrong_bo3_root: La cartella di gioco "Call of Duty: Black ops 3" non è valida. Per favore cambia la cartella del tuo gioco nelle impostazioni di TheseScripts.
+
+select_map: Seleziona una delle tue mappe qui sotto:
+please_select_map: Si prega di selezionare una mappa
+
+zombies_maps: Mappe degli zombi
+multiplayers_maps: Mappe multigiocatore
+
+// --- Informazioni sulla mappa ---
+
+file_name: Nome del file
+file_path: Percorso del file
+
+open_file_location: Apri il percorso del file
+open_file: Apri il file
+delete_file: Elimina il file
+
+delete_files: Vuoi veramente cancellare i file selezionati?
+
+// --- Importatore di script ---
+
+no_connection: L'installazione di script da internet è disabilitata. Per favore controlla la tua connessione Internet e prova di nuovo.
+import_local_script_package: Importa pacchetto script locale
+
+import_script: Importa lo script
+open_original_link: Apri il link dello script originale
+
+choose_script_package: Si prega di selezionare un pacchetto di script
+
+script_name: Nome script
+script_author: Autore
+script_version: Versione
+
+script_status: Stato
+downloading: Download
+importing: Importazione
+completed: Finito
+
+not_categorized: Non classificato
+powerups: Power-Ups
+bosses: Bosses
+perks: Perks
+visual: Visivo
+weapons: Armi
+
+// ----------------- Settings window -----------------
+
+needrestart: La modifica di questa impostazione richiede il riavvio del software. Per rendere effettive le impostazioni, riavvia il software.
+
+// ------ General ------
+
+general: Generale
+
+language: Linguaggio
+bo3_root: Cartella radice "Black ops 3"
+
+// --- Divers ---
+
+miscellaneous: Miscellaneo
+show_beta_message: Mostra il messaggio beta all'avvio
+
+// ------ Avanzate ------
+
+advanced: Avanzate
+
+// --- Pagine ---
+
+pages: Pagine
+show_console: Mostra console
