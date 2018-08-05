@@ -1,5 +1,5 @@
 # TheseScripts
-TheseScripts is a software developed by NaolShow [FR] (ToWolf http://towolf.livehost.fr/)
+TheseScripts is a software developed by NaolShow
 
 TheseScripts was created to facilitate the installation of scripts for the Mod Tools of Call of Duty: Black Ops 3,
 and to help beginners install these scripts. (And so save time)
